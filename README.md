@@ -14,3 +14,9 @@ Daniela has established her home studio. Daniela is on a mission to define her u
 Follow her journey as Daniela embarks on her DEI career and ceramics small business, seamlessly blending her creative pursuits with her dedication to make effective change and close inequities. Her website will be a narrative of clay and community, where each piece tells a story of patience, commitment, and the beauty that emerges when diverse elements come together.
 
 <a href="https://www.instagram.com/diversefires">@diversefires</a>
+
+<img src= "https://github.com/ThisisDanielaG/diversefires.github.io/assets/146487775/486474b7-2d6c-45ce-80ee-594dd48db9c5" height=200> 
+<img src = "https://github.com/ThisisDanielaG/diversefires.github.io/assets/146487775/dffab9b7-f8a7-4420-8562-2f1f855b0365" height=200> 
+<img src = "https://github.com/ThisisDanielaG/diversefires.github.io/assets/146487775/f619906a-3021-4b41-a4f9-7cae6059045c" height=200> 
+<img src ="https://github.com/ThisisDanielaG/diversefires.github.io/assets/146487775/2347df72-6ad8-477a-9421-2ffee62c5f1e" height=200>
+

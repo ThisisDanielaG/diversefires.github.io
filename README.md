@@ -1,4 +1,4 @@
-<i> This website is underconstruction. </i>
+<i> This website is underconstruction</i>
 # Welcome to DiverseFires.com
 ### Meet Daniela Gonzalez
 

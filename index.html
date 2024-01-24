@@ -98,6 +98,30 @@ Daniela has established her home studio. Daniela is on a mission to define her u
                      <button class="btn_one">send</button>
                  </form> 
 
+    <script>
+   const form = document.querySelector("#form")
+   const submitButton = document.querySelector("#submit")
+   const scriptURL = 'https://script.google.com/macros/s/AKfycbxLNpaWlW0_lNxVmmvn0uAN2_GsCLmGQATDbSzuBlRQlw8CtI6zPn210yxVtBciObURjw/exec'
+
+   form.addEventListener('submit', e => {
+     submitButton.disabled = true
+     e.preventDefault()
+     let requestBody = new FormData(form)
+     fetch(scriptURL, { method: 'POST', body: requestBody})
+       .then(response => {
+          alert('Success!', response)
+          submitButton.disabled = false
+         })
+       .catch(error => {
+       alert('Error!', error.message)
+         submitButton.disabled = false
+
+       }
+       )
+   })
+</script>
+
+    
 <a href="https://www.instagram.com/diversefires">Follow her on <i class="fa fa-instagram"></i>Instagram @diversefires</a> 
 <br><br>
 <img src= "https://github.com/ThisisDanielaG/diversefires.github.io/assets/146487775/486474b7-2d6c-45ce-80ee-594dd48db9c5" height=200> 

@@ -102,7 +102,7 @@ display: inline block;
 }
 #portfolio div h1 {
     font-size:40px;
-    background-image: linear-gradient(to left, #FFBE7A 50%, #E6D7B9 100%);
+    background-image: linear-gradient(to left, #FF7F50 50%, #FFBE7A 100%);
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color: transparent;

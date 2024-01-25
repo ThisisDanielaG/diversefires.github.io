@@ -76,7 +76,7 @@ body,html {
     background:linear-gradient(0deg,rgba(255, 190, 122, 1),rgba(0,0,0,0)), url('assets/IMG_0660.JPG') center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
-    color:#FFBE7A;
+    color:black;
     display:flex;
     justify-content:center;
     flex-direction:column;

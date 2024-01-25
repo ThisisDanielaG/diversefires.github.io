@@ -57,7 +57,7 @@ body,html {
 #links {
     margin:40px 0px;
     transition:0.6s ease-in-out;
-    color:#000;
+    color:black;
 }
 #links a {
     margin:0px 30px;
@@ -71,12 +71,12 @@ body,html {
     border-bottom:2px solid #FFBE7A;
 }
 #middle {
-    width:50%;
-    height:60vh;
+    width:100%;
+    height:80vh;
     background:linear-gradient(0deg,rgba(255, 190, 122, 1),rgba(0,0,0,0)), url('assets/IMG_0660.JPG') center center fixed;
-    background-size:50% auto;
+    background-size:100% auto;
     background-repeat:no-repeat;
-    color:#555B6E;
+    color:#FFBE7A;
     display:flex;
     justify-content:center;
     flex-direction:column;
@@ -122,7 +122,7 @@ body,html {
 #contact form input {
     width:46%;
     margin:20px 1%;
-    background:#fff;
+    background:transparent;
     border:0px;
     border-bottom:2px solid rgba(0,0,0,0.5);
     padding:8px 10px;
@@ -140,7 +140,7 @@ body,html {
     padding:8px 10px;
     font-family: 'Comfortaa', cursive;
     font-size:18px;
-    background:#fff;
+    background:transparent;
     resize:none;
     transition:0.4s ease-in-out;
     color:#000000;

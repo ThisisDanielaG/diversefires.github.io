@@ -73,7 +73,7 @@ body,html {
 #middle {
     width:50%;
     height:60vh;
-    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url("https://github.com/ThisisDanielaG/diversefires.github.io/blob/ba5407df079fdf57fbf77e44a05b1c79c4ef355b/assets/IMG_0660.JPG") center center fixed;
+    background:linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0)),url('assets/IMG_0660.JPG') center center fixed;
     background-size:50% auto;
     background-repeat:no-repeat;
     color:white;

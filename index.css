@@ -93,7 +93,7 @@ body,html {
 }
 #portfolio div h1 {
     font-size:40px;
-    background-image: linear-gradient(to left, #FFBE7A 0%, #E6D7B9 100%);
+    background-image: linear-gradient(to left, #FFBE7A 50%, #E6D7B9 100%);
     -webkit-background-clip:text;
     background-clip:text;
     -webkit-text-fill-color: transparent;
@@ -282,13 +282,13 @@ button:focus {
     height:5px;
 }
 ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
+    background: #FFF; 
 }
 ::-webkit-scrollbar-thumb {
-    background: #000; 
+    background: #FFBE7A; 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: #555; 
+    background: #FF7F50; 
 }
 @-webkit-keyframes Gradient {
 0% {background-position: 0% 50%}

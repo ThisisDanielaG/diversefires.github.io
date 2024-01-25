@@ -177,37 +177,37 @@ body,html {
     font-weight:normal;
 }
 .btn_two {
-    color:#000;
+    color:#000000;
     padding:10px 40px;
     border-radius:50px;
-    border:2px solid #fff;
+    border:2px solid #000000;
     font-size:18px;
     font-family: 'Comfortaa', cursive;
     font-weight:bold;
-    background:#fff;
+    background:transparent;
     transition:0.4s ease-in-out;
     margin:30px 10px;
 }
 .btn_two:hover {
     background:transparent;
     cursor:pointer;
-    color:#fff;
+    color:#ffffff;
 }
 #details {
     margin:6vh 0px;
 }
 .btn_social {
     font-size:18px;
-    color:#fff;
+    color:#000000;
     margin:40px 20px;
     padding:15px 18px;
     border-radius:50%;
-    background:#000;
+    background:#ffffff;
     transition:0.4s ease-in-out;
 }
 .btn_social:hover {
-    color:#000;
-    background:#fff;
+    color:#ffffff;
+    background:#000000;
     cursor:pointer;
 }
 @media (max-width: 900px){

@@ -258,17 +258,6 @@ body,html {
 
 
 
-#container
-.item-list{
-    ...
-    scroll-snap-type: x mandatory;
-}
-
-.item{
-	...
-    scroll-snap-align: center;
-}
-
 
 
 #footer {

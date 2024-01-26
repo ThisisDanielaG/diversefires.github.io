@@ -255,6 +255,22 @@ body,html {
         padding:10px 11px;
     }
 }
+
+
+
+#container
+.item-list{
+    ...
+    scroll-snap-type: x mandatory;
+}
+
+.item{
+	...
+    scroll-snap-align: center;
+}
+
+
+
 #footer {
     width:100%;
     padding:10vh 0px;

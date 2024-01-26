@@ -1,7 +1,7 @@
  
 
 <script>
-       const form = document.querySelector("#form")
+       const form = document.querySelector("#post")
        const submitButton = document.querySelector("#submit")
        const scriptURL = 'https://script.google.com/macros/s/AKfycbxLNpaWlW0_lNxVmmvn0uAN2_GsCLmGQATDbSzuBlRQlw8CtI6zPn210yxVtBciObURjw/exec'
 

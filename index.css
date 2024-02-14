@@ -74,7 +74,7 @@ body,html {
 #middle {
     width:100%;
     height:80vh;
-    background:linear-gradient(rgba(255, 190, 122, 1),rgba(0,0,0,0)), url('assets/background.JPG') center center fixed;
+    background:linear-gradient(rgba(255, 190, 122, 1),rgba(0,0,0,0)), url('assets/pictures/bubblecupbackground.JPG') center center fixed;
     background-size:100% auto;
     background-repeat:no-repeat;
     color:black;

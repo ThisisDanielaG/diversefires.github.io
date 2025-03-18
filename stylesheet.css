@@ -25,8 +25,8 @@
     }
   }
   
-  .highlight-pink {
-    background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #f5afc59a 65%);
+  .highlight-orange {
+    background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #f5c59a 65%);
   }
   
   .space {
@@ -42,8 +42,8 @@
     background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #ffffff 80%);
   }
   
-  .thin-highlight-pink {
-    background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #f5afc59a 80%);
+  .thin-highlight-f5c59a {
+    background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #f5c59a 80%);
   }
   
   a {
@@ -100,8 +100,8 @@
     text-align: center;
   }
   
-  .pink-background {
-    background: #f5afc59a;
+  .f5c59a-background {
+    background: #f5c59a;
     display: flex;
     flex-direction: column;
     justify-content: center;

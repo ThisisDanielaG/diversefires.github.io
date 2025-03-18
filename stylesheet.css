@@ -26,7 +26,7 @@
   }
   
   .highlight-orange {
-    background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #f5c59a 65%);
+    background: linear-gradient(180deg,rgba(255,255,255, 0) 65%, #e9a562 65%);
   }
   
   .space {
@@ -43,7 +43,7 @@
   }
   
   .thin-highlight-orange {
-    background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #f5c59a 80%);
+    background: linear-gradient(180deg,rgba(255,255,255, 0) 80%, #e9a562 80%);
   }
   
   a {
@@ -101,7 +101,7 @@
   }
   
   .orange-background {
-    background: #f5c59a;
+    background: #e9a562;
     display: flex;
     flex-direction: column;
     justify-content: center;

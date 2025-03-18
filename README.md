@@ -2,7 +2,7 @@
 
 My strengths are in UX and typography. I am relearning how to code in HTML and CSS. 
 
-This personal website was built using the Github community, tutorials, and the templates by https://imfunniee.github.io/
+This personal website was built using the Github community, tutorials, and the templates by folks like https://imfunniee.github.io/
 
 I am using it to host updates on my academic and artistic pursuits. I am a ceramicist and an up and coming DEI professional.
 
